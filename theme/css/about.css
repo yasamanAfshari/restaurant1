@@ -1,0 +1,30 @@
+.about-attachment{
+    background-image: url(../images/bg_3.jpg.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: -3;
+    height: 450px;
+    box-shadow: inset 10000px 0 0 rgb(0 0 0 / 53%);
+}
+
+.slider-text{
+    height: 450px;
+}
+ .slider-text .breadcrumbs span {
+    color: #fff;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
+ .slider-text .breadcrumbs {
+    font-size: 13px;
+}
+ .slider-text .bread {
+    font-family: afsaneh;
+    font-weight: 900;
+    color: #fff;
+    font-size: 50px;
+}
+ .breadcrumbs a{
+     color: white;
+     text-decoration: none;
+     cursor: pointer;
+ }

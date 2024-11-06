@@ -1,0 +1,18 @@
+.page-link{
+    border: 1px solid var(--light-brown);
+    margin: 0 10px;
+    border-radius: 4px;
+    color: var(--light-brown);
+}
+.page-link:hover{
+    border: 1px solid var(--light-brown);
+    margin: 0 10px;
+    border-radius: 4px;
+    color: var(--light-brown);
+}
+.page-link:focus {
+    z-index: 3;
+    color: var(--light-brown);
+    background-color: white;
+    box-shadow: 0 0 0 0.25rem rgb(200 169 126 / 19%);
+}

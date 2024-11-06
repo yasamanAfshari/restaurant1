@@ -1,0 +1,7 @@
+textarea.form-control{
+    min-height: 200px;
+}
+.contact-section .contact-info p a {
+    color: #c8a97e;
+    text-decoration: none;
+}
